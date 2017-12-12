@@ -1,8 +1,6 @@
 /*************************************************/
 /*** Title: Tic Tac Toe Game                   ***/
-/*** Course: CPET - 121 - 02                   ***/
 /*** Developer Carlos Vazquez                  ***/
-/*** Due Date: March 9, 2017                   ***/
 /*** Description: Creates Tic Tac Toe Game     ***/
 /*************************************************/
 #include <iostream>
