@@ -1,9 +1,6 @@
 /******************************************************/
 /*** Title: Battleship                              ***/
-/*** Course: CPET-121-02                            ***/
 /*** Developer: Carlos Vazquez                      ***/
-/*** 1st Year                                       ***/
-/*** Date: April 6, 2017                            ***/
 /*** Description: Simulates Battleship game         ***/
 /******************************************************/
 #include <iostream>
